@@ -1,0 +1,61 @@
+</head>
+
+<!-- Mirrored from cafetalk.com/support/chat/popup/?lang=en&client_site=wasabi&name=&custom_user_id=0 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 10 Mar 2020 22:12:22 GMT -->
+<body>
+<!DOCTYPE html>
+<html lang="ja"  >
+<head>
+  <meta charset="UTF-8">
+  <title>Support Chat</title>
+  <meta name="Description" content="" />
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','../../../../www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-13279421-20', 'cafetalk.com');
+    ga('send', 'pageview');
+  </script> 
+  <script src="../../../javascripts/jquery-1.7.2.min.js" type="text/javascript"></script> 
+  <script src="../../../bootstrap/js/vendor/modernizr.js"></script><!-- the feature detection library for HTML5/CSS3 -->
+  <script src="../../../../js.pusher.com/3.2/pusher.min.js"></script>
+  <script src="../../resources/library/pusher/sbChatWidgetExperimental45c4.js?9"></script> 
+  <link rel="stylesheet" href="../../resources/css/chat.min24ac.css?91723461236">
+  <script>
+    $(function() {     
+      var pusher_params = {
+        cluster: 'ap1',
+        encrypted: true
+      };
+
+            var pusher = new Pusher('3f7ada3cfafa09fd6540', pusher_params );
+      var chatWidget = new PusherChatWidget(pusher, {
+        appendTo: "#sbChatterBox",
+        channelName: "wasabi-837ab710548d024d77858e96349da085",
+        clientSite: "wasabi",
+        visitorName: "",
+        visitorEmail: "",
+        customUserId: "",
+        referrer: "",
+        locale: "en", // custom setting
+        userRole: "enduser"
+      });
+    });
+  </script>
+</head>
+<body style="overflow: hidden;margin: 0;">
+    <div id="chatWidgetWrapper">
+    <div id="sbChatWidgets">
+      <div class="sbChatWidget">
+        <div class="pusher-chat-widget">
+          <div class="pusher-chat-widget-messages">
+                      </div> 
+        </div>         
+      </div>
+      <div class="sbChatWidget" id="sbChatterBox"></div>
+    </div>
+  </div>
+</body>
+
+<!-- Mirrored from cafetalk.com/support/chat/popup/?lang=en&client_site=wasabi&name=&custom_user_id=0 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 10 Mar 2020 22:12:25 GMT -->
+</html>

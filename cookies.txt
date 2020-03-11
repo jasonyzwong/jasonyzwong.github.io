@@ -1,0 +1,31 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.wasabi-jpn.com	TRUE	/	FALSE	1999999999	PHPSESSID	ubcsicneqebaiott2l6deoroe0
+.google.com	TRUE	/	FALSE	1999999999	NID	199=yjIbyNXoeoUo_SmDrbQsBfwezhW7ePk5bVFLS7vQTZomtkGK4zkEr6tRv4fxTuXMyOVhivLw4HZ_wpH9OEjAikEtGqk4TfdHagRgi1I2i6z7ZEo7dLHoJrUhLl1Vm8im_sqEWDyH_ywTtIb6Rp5Tw_ElwBHHCzt26GWhEcpbz7o
+.youtube.com	TRUE	/	FALSE	1999999999	YSC	4Xm1LxmxW_8
+.youtube.com	TRUE	/	FALSE	1999999999	VISITOR_INFO1_LIVE	Dfag3442njc
+www.youtube.com	TRUE	/	FALSE	1999999999	samesite	None
+.youtube.com	TRUE	/	FALSE	1999999999	GPS	1
+.facebook.com	TRUE	/	FALSE	1999999999	sb	g6pnXqM6MBgVp6j4SGTJFKX7
+cafetalk.com	TRUE	/	FALSE	1999999999	PHPSESSID	0kgci8d0utf6o6lhta9p1hc277
+cafetalk.com	TRUE	/	FALSE	1999999999	cafetalk_locale	en
+cafetalk.com	TRUE	/	FALSE	1999999999	locale	en
+cafetalk.com	TRUE	/	FALSE	1999999999	user_prefer_locale	en
+.youtube.com	TRUE	/	FALSE	1999999999	YTC	exp|1583878847
+.facebook.com	TRUE	/	FALSE	1999999999	noscript	1
+.cafetalk.com	TRUE	/	FALSE	1999999999	__cfduid	dc1a308799d306cac45f8b32b6720fb0f1583878345
+cafetalk.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+cdn.cms-twdigitalassets.com	TRUE	/	FALSE	1999999999	SameSite	None
+accounts.google.com	TRUE	/	FALSE	1999999999	GAPS	1:Kb7EyKtpWaoQisNN2mWkGD0dPNlSfQ:Pk7HnjWvuQ7zNnMz
+accounts.google.com	TRUE	/	FALSE	1999999999	Priority	HIGH
+.twitter.com	TRUE	/	FALSE	1999999999	external_referer	ZLhHHTiegr9X%2BFyJhBSAyQjX6oilQZmTxiAuTkFmZt2nc3O%2B%2Fs9uHL7gsq4BqPaYOU%2Fi9jmOL3mnyujB8ZA%2FfV%2F%2BLHCjxHq6YcPSc1hMSXIhdVJlu2qYR2MgOcU0gjeSiVQ2hXWAvPs%3D|0|8e8t2xd8A2w%3D
+.facebook.com	TRUE	/	FALSE	1999999999	fr	1aa6aozYEncUp5Tfp..BeZ6qD.AB.AAA.0.0.BeaD1x.AWW4LV2G
+.twitter.com	TRUE	/	FALSE	1999999999	att	LgTYYLhfvHpZY9oX57ZpUaBtOdTBSObnDztMRa7j
+.twitter.com	TRUE	/	FALSE	1999999999	fm	0
+.twitter.com	TRUE	/	FALSE	1999999999	_twitter_sess	BAh7CSIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCFjCUMdwAToMY3NyZl9p%250AZCIlMTFjYmRiN2Q0NDc1OWUyZmNmOGM5MzJiZmYwMTQ3NGU6B2lkIiU0ZmEy%250ANDdlZWFjMGEwYTZjZGUyMTNmYTZkY2E5OWI1OA%253D%253D--bb9649d4ccbb2bf5d109fece792c9bccf2acc0f5
+.twitter.com	TRUE	/	FALSE	1999999999	personalization_id	v1_Km8MRMaDmGqXU/1CUAt1lA=="
+twitter.com	TRUE	/	FALSE	1999999999	lang	mr
+.twitter.com	TRUE	/	FALSE	1999999999	guest_id	v1%3A158389192353223530
+twitter.com	TRUE	/	FALSE	1999999999	SameSite	None
+.twitter.com	TRUE	/	FALSE	1999999999	ct0	525e840553e304c4b060535d2803079e
+
